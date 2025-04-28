@@ -6,7 +6,7 @@ This project demonstrates how to convert Python code into high-performance C++ c
 ## Example 1: Pi Calculation
 The following Python code calculates Pi using a series expansion. The Python code is optimized for time performance.
 
-## Example 1:  Further Calculation and Optimization
+## Example 2:  Further Calculation and Optimization
 In this example, we calculate a more complex mathematical expression using a similar series-based approach but with enhanced parameters for greater accuracy and optimization.
 
 ## Installation
